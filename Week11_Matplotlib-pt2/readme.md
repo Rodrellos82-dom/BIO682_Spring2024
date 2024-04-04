@@ -4,7 +4,7 @@
 
 ### Assignment
 
-Open the Jupyter notebook called "Class11_Matplotlib.ipynb" and work through the assignment cells.  Once you're finished, **please delete all non-assignment cells and upload your completed notebook (.ipynb) to Canvas.**
+Open the Jupyter notebook called "Class11_Matplotlib.ipynb" and work through the assignment cells.  Once you're finished, **upload your completed notebook (.ipynb) to Canvas.**
 
 ## Resources
 
