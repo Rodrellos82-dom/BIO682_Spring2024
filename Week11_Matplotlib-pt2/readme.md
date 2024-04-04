@@ -1,10 +1,10 @@
-# Class 11 - April 7th 2023
+# Class 11 - April 5th 2024
 - In this class we will:
     - Learn additional functions for making custom plots with Python
 
 ### Assignment
 
-Open the Jupyter notebook called "Class11_Matplotlib.ipynb" and work through the assignment cells.  **Upload the completed notebook to Bb Learn in both .ipynb and .pdf/.html formats.**
+Open the Jupyter notebook called "Class11_Matplotlib.ipynb" and work through the assignment cells.  Once you're finished, **please delete all non-assignment cells and upload your completed notebook (.ipynb) to Canvas.**
 
 ## Resources
 
@@ -21,7 +21,7 @@ Open the Jupyter notebook called "Class11_Matplotlib.ipynb" and work through the
 [Using colormaps](https://betterprogramming.pub/how-to-use-colormaps-with-matplotlib-to-create-colorful-plots-in-python-969b5a892f0c)
 
 
-Copyright (C) 2023  Jason Ladner
+Copyright (C) 2024  Jason Ladner
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
